@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/deno,node,webstorm,macos,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=deno,node,webstorm,macos,windows,linux
 
+### Output
+teleposta
+teleposta.exe
+
 ### Deno ###
 /.idea/
 /.vscode/
@@ -34,7 +38,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

@@ -1,5 +1,7 @@
 {
+  "vendor": true,
+  "importMap": "./import_map.json",
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "compile": "deno compile --allow-net=api.telegram.org main.ts"
   }
 }
