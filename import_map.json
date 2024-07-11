@@ -1,6 +1,0 @@
-{
-  "imports": {
-    "parseArgs": "https://deno.land/std@0.218.2/cli/parse_args.ts",
-    "grammy": "https://deno.land/x/grammy@v1.21.1/mod.ts"
-  }
-}
